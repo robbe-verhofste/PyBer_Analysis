@@ -1,8 +1,8 @@
-It's your second week as a data analyst at PyBer, a ride-sharing app company valued at $2.3 billion. You've just been assigned your first big project: analyze all the rideshare data from January to early May of 2019 and create a compelling visualization for the CEO, V. Isualize.
+#Analysis Overview
 
-Even before starting at PyBer, you'd heard stories about V. Isualize. She is a former programmer who started out at MathWorks, a co-founder of PyBer, and is known for being extremely fair yet extremely demanding. Because of her programming expertise, she's particularly insistent that the analytical work be comprehensive and correct. This assignment is both a once-in-a-lifetime challenge and a once-in-a-lifetime opportunity. If you do well, your future at the organization is secure.
+As a data analyst at PyBer, a ride-sharing app company valued at $2.3 billion, I was assigned my first big project: analyzing all the rideshare data from January to early May of 2019 and create a compelling visualization for the CEO, V. Isualize.
 
-Your manager, Omar, is excited for your big break and has agreed to partner with you on getting the visualizations just right. Your first step is to create a GitHub repository for the project so that he can stay in the loop as you work.
+#Results
 
-
-V. Isualize has given you and Omar a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+This analysis shows that, throughout the months January-April in 2019, urban areas had significantly higher total fares than suburban or rural areas.
+![Image](https://github.com/robbe-verhofste/PyBer_Analysis/blob/main/resources/PyBer_fare_summary.PNG)
